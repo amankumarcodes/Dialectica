@@ -1,0 +1,8 @@
+
+{
+  "name": "Dialectica AI Debate Partner",
+  "description": "An advanced AI-powered debate platform where users can challenge their reasoning, practice public speaking, and sharpen their rhetoric through text or real-time voice debates with Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
